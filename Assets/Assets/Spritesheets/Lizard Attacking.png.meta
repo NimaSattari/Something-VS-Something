@@ -1,0 +1,2239 @@
+fileFormatVersion: 2
+guid: 6593746044d97bb48b09c498f2f50cc7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3340233067479159950
+    second: Lizard Attacking_0
+  - first:
+      213: -3973701328654710892
+    second: Lizard Attacking_1
+  - first:
+      213: 7460013834076210185
+    second: Lizard Attacking_2
+  - first:
+      213: 3617570274085136561
+    second: Lizard Attacking_3
+  - first:
+      213: -723404634819465821
+    second: Lizard Attacking_4
+  - first:
+      213: 6916213579619569285
+    second: Lizard Attacking_5
+  - first:
+      213: 194356909083271977
+    second: Lizard Attacking_6
+  - first:
+      213: 5864936328320449481
+    second: Lizard Attacking_7
+  - first:
+      213: -9164311563850487235
+    second: Lizard Attacking_8
+  - first:
+      213: -5099081048025030643
+    second: Lizard Attacking_9
+  - first:
+      213: 5537919864947286379
+    second: Lizard Attacking_10
+  - first:
+      213: 6624424256340238522
+    second: Lizard Attacking_11
+  - first:
+      213: -359627748026061233
+    second: Lizard Attacking_12
+  - first:
+      213: -8887494398126645591
+    second: Lizard Attacking_13
+  - first:
+      213: 7006078195028664680
+    second: Lizard Attacking_14
+  - first:
+      213: -1356629129952778962
+    second: Lizard Attacking_15
+  - first:
+      213: 8295359217853608003
+    second: Lizard Attacking_16
+  - first:
+      213: -6131910708691679955
+    second: Lizard Attacking_17
+  - first:
+      213: 552055520336269921
+    second: Lizard Attacking_18
+  - first:
+      213: 8058351056531653618
+    second: Lizard Attacking_19
+  - first:
+      213: 1700631915826854273
+    second: Lizard Attacking_20
+  - first:
+      213: -2962686900436319612
+    second: Lizard Attacking_21
+  - first:
+      213: -5889518422000451267
+    second: Lizard Attacking_22
+  - first:
+      213: 7998882612465903966
+    second: Lizard Attacking_23
+  - first:
+      213: -3969949779018097958
+    second: Lizard Attacking_24
+  - first:
+      213: -8203119235108878569
+    second: Lizard Attacking_25
+  - first:
+      213: -7450644094000235110
+    second: Lizard Attacking_26
+  - first:
+      213: 1090578872040889171
+    second: Lizard Attacking_27
+  - first:
+      213: -3231794851537249288
+    second: Lizard Attacking_28
+  - first:
+      213: 6543109952153106319
+    second: Lizard Attacking_29
+  - first:
+      213: -559683021808790752
+    second: Lizard Attacking_30
+  - first:
+      213: -7189123841070871123
+    second: Lizard Attacking_31
+  - first:
+      213: -4150084752782451529
+    second: Lizard Attacking_32
+  - first:
+      213: 7953293416334195047
+    second: Lizard Attacking_33
+  - first:
+      213: -5173281111964905524
+    second: Lizard Attacking_34
+  - first:
+      213: -8791214569530535495
+    second: Lizard Attacking_35
+  - first:
+      213: 2424690637353557625
+    second: Lizard Attacking_36
+  - first:
+      213: -860907419282037124
+    second: Lizard Attacking_37
+  - first:
+      213: -3893218274441486823
+    second: Lizard Attacking_38
+  - first:
+      213: -2522337004360429907
+    second: Lizard Attacking_39
+  - first:
+      213: -2904953644048260341
+    second: Lizard Attacking_40
+  - first:
+      213: -1627432884647786759
+    second: Lizard Attacking_41
+  - first:
+      213: -5364742938498592456
+    second: Lizard Attacking_42
+  - first:
+      213: -2910702123271436369
+    second: Lizard Attacking_43
+  - first:
+      213: -612112408011298337
+    second: Lizard Attacking_44
+  - first:
+      213: 8574535695255557858
+    second: Lizard Attacking_45
+  - first:
+      213: 2076566718247255247
+    second: Lizard Attacking_46
+  - first:
+      213: -3227790618158858614
+    second: Lizard Attacking_47
+  - first:
+      213: 1764238319824030632
+    second: Lizard Attacking_48
+  - first:
+      213: 863045585016818970
+    second: Lizard Attacking_49
+  - first:
+      213: 4527178231594079772
+    second: Lizard Attacking_50
+  - first:
+      213: 5543491491057938867
+    second: Lizard Attacking_51
+  - first:
+      213: 6963352758802786794
+    second: Lizard Attacking_52
+  - first:
+      213: 8516106951271197370
+    second: Lizard Attacking_53
+  - first:
+      213: 916259748796442713
+    second: Lizard Attacking_54
+  - first:
+      213: 9155745486195939629
+    second: Lizard Attacking_55
+  - first:
+      213: -5604277894892616984
+    second: Lizard Attacking_56
+  - first:
+      213: 1249685852213211978
+    second: Lizard Attacking_57
+  - first:
+      213: 2820900673457866422
+    second: Lizard Attacking_58
+  - first:
+      213: -2241020417433319224
+    second: Lizard Attacking_59
+  - first:
+      213: -8094021335726610841
+    second: Lizard Attacking_60
+  - first:
+      213: -8303892320320656839
+    second: Lizard Attacking_61
+  - first:
+      213: -778242945950918985
+    second: Lizard Attacking_62
+  - first:
+      213: 6009454911957420995
+    second: Lizard Attacking_63
+  - first:
+      213: 7873944975284092965
+    second: Lizard Attacking_64
+  - first:
+      213: -4838945889653586836
+    second: Lizard Attacking_65
+  - first:
+      213: 167331293271928248
+    second: Lizard Attacking_66
+  - first:
+      213: 7499766356426261975
+    second: Lizard Attacking_67
+  - first:
+      213: -1586583532278297015
+    second: Lizard Attacking_68
+  - first:
+      213: 1819950600026579378
+    second: Lizard Attacking_69
+  - first:
+      213: 8893608188472639209
+    second: Lizard Attacking_70
+  - first:
+      213: -2613252921156396431
+    second: Lizard Attacking_71
+  - first:
+      213: -6539337875946286641
+    second: Lizard Attacking_72
+  - first:
+      213: -3296919405051776372
+    second: Lizard Attacking_73
+  - first:
+      213: -2282766015094221997
+    second: Lizard Attacking_74
+  - first:
+      213: 8964893768988286006
+    second: Lizard Attacking_75
+  - first:
+      213: 7670311006732986542
+    second: Lizard Attacking_76
+  - first:
+      213: 8456975499450846473
+    second: Lizard Attacking_77
+  - first:
+      213: -6988992058960182133
+    second: Lizard Attacking_78
+  - first:
+      213: -1627199823883453313
+    second: Lizard Attacking_79
+  - first:
+      213: 8925314239325817598
+    second: Lizard Attacking_80
+  - first:
+      213: 1850969044750121157
+    second: Lizard Attacking_81
+  - first:
+      213: 5207238328771468128
+    second: Lizard Attacking_82
+  - first:
+      213: -5536645129497915169
+    second: Lizard Attacking_83
+  - first:
+      213: 5620521958306032383
+    second: Lizard Attacking_84
+  - first:
+      213: 8880547128405509806
+    second: Lizard Attacking_85
+  - first:
+      213: 9176923596369588678
+    second: Lizard Attacking_86
+  - first:
+      213: -1872920428887797507
+    second: Lizard Attacking_87
+  - first:
+      213: 2884397543113064928
+    second: Lizard Attacking_88
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lizard Attacking_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04bef17830302114fae54c587c72701a
+      internalID: -3340233067479159950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Attacking_1
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49c72e809ce39c4dbe8472d326585fd
+      internalID: -3973701328654710892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Attacking_2
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878a80a64024fb0458f136bfa25ef347
+      internalID: 7460013834076210185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Attacking_3
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1188e10918a024fb6cd0c6f70748b1
+      internalID: 3617570274085136561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Attacking_4
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb4d937a566ace44959044c4786bfe9
+      internalID: -723404634819465821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Attacking_5
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30cbefa4fa842c4092470f521a4fdd6
+      internalID: 6916213579619569285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Attacking_6
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd2fbff3bdd0f14e9539b7a71264f63
+      internalID: 194356909083271977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Attacking_7
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d5b5c489f0a014ea433ee9e51ad6b7
+      internalID: 5864936328320449481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Attacking_8
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b29cd7be756e24ba3e20ada403f7a6
+      internalID: -9164311563850487235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Attacking_9
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5026218832b7c06428c8cdd875ba2e77
+      internalID: -5099081048025030643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Attacking_10
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a692791cde754c4b93ad8779793a0e7
+      internalID: 5537919864947286379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Attacking_11
+      rect:
+        serializedVersion: 2
+        x: 2761
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eea611a28cefdb49919cf4e9261da22
+      internalID: 6624424256340238522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Attacking_12
+      rect:
+        serializedVersion: 2
+        x: 3012
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5828d6568e4c08e469005dcea354fab3
+      internalID: -359627748026061233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Attacking_13
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c12211997d49b4d90450933b15a06f
+      internalID: -8887494398126645591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Attacking_14
+      rect:
+        serializedVersion: 2
+        x: 3514
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d11933488751c54e9e7a4787b7312d4
+      internalID: 7006078195028664680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Attacking_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb2ea2befa317241bb56a3632483b43
+      internalID: -1356629129952778962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Attacking_16
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80afbd29a2321a2468a288b194e52ef3
+      internalID: 8295359217853608003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Attacking_17
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143f34659ea74b2408b6a400ac16a9bc
+      internalID: -6131910708691679955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Attacking_18
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aacbad9697e9c24b9e9c31af47a306c
+      internalID: 552055520336269921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Attacking_19
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d19311f8f0818c948991a6a33afb745b
+      internalID: 8058351056531653618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Attacking_20
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89bdb296aa0901845b2a7b5c106db70b
+      internalID: 1700631915826854273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Attacking_21
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9adc310333b045848b32c05d4891d3fc
+      internalID: -2962686900436319612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Attacking_22
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9348b729d5e9fc94b896d055bfe5044f
+      internalID: -5889518422000451267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Attacking_23
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384d3f8e01279a149bde2461a590a531
+      internalID: 7998882612465903966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Attacking_24
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a307a241e04a80b4fa7e9361b7d32abf
+      internalID: -3969949779018097958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Attacking_25
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c33ebf2a838184ab75a55bb751a1e0
+      internalID: -8203119235108878569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Attacking_26
+      rect:
+        serializedVersion: 2
+        x: 2761
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08911754b92b1ca46bde5a4c962ce2e1
+      internalID: -7450644094000235110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Attacking_27
+      rect:
+        serializedVersion: 2
+        x: 3012
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1112c2c7b33ef8047bf0672a359ab692
+      internalID: 1090578872040889171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Attacking_28
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03ad9da69642bf4ea66e6f222867bba
+      internalID: -3231794851537249288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Attacking_29
+      rect:
+        serializedVersion: 2
+        x: 3514
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79754bee23849940b8b499c5b010cd1
+      internalID: 6543109952153106319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Attacking_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d41b2f500388c84fb310be65f371944
+      internalID: -559683021808790752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Attacking_31
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95da7c77e89a73e40b113ea21bdf0f99
+      internalID: -7189123841070871123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Attacking_32
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afdfe591cac90614db52819be6d7fba3
+      internalID: -4150084752782451529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Attacking_33
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d1c43dbc810d1468a6eb72398226cf
+      internalID: 7953293416334195047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Attacking_34
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4642557114f593241927adab16f9fb90
+      internalID: -5173281111964905524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Attacking_35
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5250ec3db95b64cb4f49df60308fc6
+      internalID: -8791214569530535495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Attacking_36
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c5ce4d2cfb42547b9728d635380497
+      internalID: 2424690637353557625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Attacking_37
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b3ad64f266581478f1080607d3ed4c
+      internalID: -860907419282037124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Attacking_38
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bba02315d81627489b42f4889f6d494
+      internalID: -3893218274441486823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Attacking_39
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e06f14bdbdf9ce429f8f370548ed6e0
+      internalID: -2522337004360429907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Attacking_40
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec08b599236728e43ab7831a5354dc12
+      internalID: -2904953644048260341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Attacking_41
+      rect:
+        serializedVersion: 2
+        x: 2761
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da6b0017f65443469a7d8d5b7e25ae9
+      internalID: -1627432884647786759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Attacking_42
+      rect:
+        serializedVersion: 2
+        x: 3012
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4c52623f802484c84b37e5143c2fda
+      internalID: -5364742938498592456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Attacking_43
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a241d50a8731143b7c772d7b2aff4f
+      internalID: -2910702123271436369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Attacking_44
+      rect:
+        serializedVersion: 2
+        x: 3514
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a798f7ef49f873c4286fbaa7f56ffe42
+      internalID: -612112408011298337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Attacking_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5568dfda47c5154eb5444cfce232536
+      internalID: 8574535695255557858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Attacking_46
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7300440cf04415242a566886fcf7da95
+      internalID: 2076566718247255247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Attacking_47
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b67a0a256929634ab059f2c7bc62848
+      internalID: -3227790618158858614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Attacking_48
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce32257ede69bd044b04503f0362bb0b
+      internalID: 1764238319824030632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Attacking_49
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e36909f9c1e28f446bb5075119c8611b
+      internalID: 863045585016818970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Attacking_50
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc39c94e14817854d842dff8cc7a267c
+      internalID: 4527178231594079772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Attacking_51
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6bd5bc67a428c49b040055c5c52779
+      internalID: 5543491491057938867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Attacking_52
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79aa0d1b87a2e24ea6218215521f318
+      internalID: 6963352758802786794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Attacking_53
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c65f616260d9c43a308702cecd60fc
+      internalID: 8516106951271197370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Attacking_54
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f6ec6597b0ca0f4fb608ccc7e0562a8
+      internalID: 916259748796442713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Attacking_55
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca12b2b5763e3042bc211868e04972f
+      internalID: 9155745486195939629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Attacking_56
+      rect:
+        serializedVersion: 2
+        x: 2761
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade59c76cac1f93438c10f6902f07178
+      internalID: -5604277894892616984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Attacking_57
+      rect:
+        serializedVersion: 2
+        x: 3012
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def6debe851b7ff4c99a79fb8d1cc969
+      internalID: 1249685852213211978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Attacking_58
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8091f841b6468da42b74d8db3e9baa3a
+      internalID: 2820900673457866422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Attacking_59
+      rect:
+        serializedVersion: 2
+        x: 3514
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc8b2f6b19e33640b4a9a3a1e060ac2
+      internalID: -2241020417433319224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Attacking_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129b17e06886f674f8e45a6fcbcc4d95
+      internalID: -8094021335726610841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Attacking_61
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ed8cb7d68dc4a48a0c5a3b5598dc0d
+      internalID: -8303892320320656839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Attacking_62
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4a02cec3afa3740a282a5921aa1dac
+      internalID: -778242945950918985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Attacking_63
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b2c566a94e2744abfbfe033b31833f
+      internalID: 6009454911957420995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Attacking_64
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a64a23533bdcdb644916bf6cd5915dd6
+      internalID: 7873944975284092965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Attacking_65
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e427bde6ac7b2f645844e62dc86ecb1f
+      internalID: -4838945889653586836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Attacking_66
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2106eadea9032da43bc381bb777f3e6e
+      internalID: 167331293271928248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Attacking_67
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37f6a5170ed4264e94edfaa504e9d77
+      internalID: 7499766356426261975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Attacking_68
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea5fcbfc2eef16641ad9bcc80a5227ba
+      internalID: -1586583532278297015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Attacking_69
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7f2236f8603af47b17c0b034d8f220
+      internalID: 1819950600026579378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Attacking_70
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e45d40d55eec214d8ec95a1ab8d8046
+      internalID: 8893608188472639209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Attacking_71
+      rect:
+        serializedVersion: 2
+        x: 2761
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9871a07dc0b59334bb6f957082b643bf
+      internalID: -2613252921156396431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Attacking_72
+      rect:
+        serializedVersion: 2
+        x: 3012
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e7c03b1a6b4e342a7610237d93596b
+      internalID: -6539337875946286641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Attacking_73
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ffdfaae334457b43ace9e3f2d37017f
+      internalID: -3296919405051776372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Attacking_74
+      rect:
+        serializedVersion: 2
+        x: 3514
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d4e62b8ecfb0e4993dd5fb37dcb995
+      internalID: -2282766015094221997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Attacking_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce9b9efcc62f024ea739f5be6139f39
+      internalID: 8964893768988286006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Attacking_76
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00a16ad07d098a49a54375bc0a6d43d
+      internalID: 7670311006732986542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Attacking_77
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4e8801f6acced4eb88f2698ca20c59
+      internalID: 8456975499450846473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Attacking_78
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc9bca5aa4cefd8409f15ad060790385
+      internalID: -6988992058960182133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Attacking_79
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d129acd1f63ff43b4958de15addc1c
+      internalID: -1627199823883453313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Attacking_80
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1eca1ab00972fe47a17705b8518dcf1
+      internalID: 8925314239325817598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Attacking_81
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936b6efa46bbdfe449975fba92c6cf6c
+      internalID: 1850969044750121157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Attacking_82
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce7de0261bf8c44bbd243f1d5163b32
+      internalID: 5207238328771468128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Attacking_83
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef86810b7800a5439d4c4271199fd25
+      internalID: -5536645129497915169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Attacking_84
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0fe9e5735af20b4490ed7b6fd2e076b
+      internalID: 5620521958306032383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Attacking_85
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5cb358809cb944bbc4f1e2f897093e
+      internalID: 8880547128405509806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Attacking_86
+      rect:
+        serializedVersion: 2
+        x: 2761
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3adfabc5677fd9447b69bd9422b7e600
+      internalID: 9176923596369588678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Attacking_87
+      rect:
+        serializedVersion: 2
+        x: 3012
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90cd2c99deb5b364d841c79f7a67d4e1
+      internalID: -1872920428887797507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Attacking_88
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e9cbd13b429544f8b3ddd4dd016e86
+      internalID: 2884397543113064928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
